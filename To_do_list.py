@@ -33,7 +33,7 @@ Please Enter an option 1 through 4: ''')
     else:
         print("Enter a number from 1 through 4")
 
-print(data)
+
     
     
 
